@@ -1,1 +1,41 @@
-
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>安装</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #f0f0f0;
+            font-family: Arial, sans-serif;
+        }
+        .custom-button {
+            padding: 12px 24px;
+            font-size: 16px;
+            color: #ffffff;
+            background-color: #007aff;
+            border: none;
+            border-radius: 25px;
+            cursor: pointer;
+            outline: none;
+            transition: background-color 0.3s, box-shadow 0.3s;
+            text-align: center;
+        }
+        .custom-button:hover {
+            background-color: #0051a8;
+        }
+        .custom-button:active {
+            background-color: #003d7a;
+            box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.2);
+        }
+    </style>
+</head>
+<body>
+    <button class="custom-button" onclick="window.location.href='itms-services://?action=download-manifest&url=https://jarjjr.github.io/jjr/li.plist'">GET</button>
+</body>
+</html>
