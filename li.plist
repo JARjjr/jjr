@@ -11,7 +11,7 @@
             <key>kind</key>
             <string>software-package</string>
             <key>url</key>
-            <string><![CDATA[https://jarjjr.github.io/jjr/1.ipa]]></string>
+            <string><![CDATA[链接]]></string>
           </dict>
           <dict>
             <key>kind</key>
@@ -29,7 +29,7 @@
         <key>metadata</key>
         <dict>
           <key>bundle-identifier</key>
-          <string><![CDATA[LT76WJUBQ3.LT76WJUBQ3.supplies.wall.phoenix]]></string>
+          <string><![CDATA[包名]]></string>
           <key>bundle-version</key>
           <string><![CDATA[9.1]]></string>
           <key>kind</key>
