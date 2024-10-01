@@ -1,2 +1,2 @@
-1.0
-url
+edition:'1.0'
+url:'baidu.com'
